@@ -5,12 +5,9 @@ This is the final project of the Robotics I module at the National University of
 In this project, we worked on the kinematic aspects of an industrial robot with 6 degrees of freedom. It was about an ABB commercial robot model IRB 7600-400/2.55..
 We guided the project towards a real industrial application, such as the pouring of molten steel into crucibles. We considered it to be a risky application for a human operator.
 
-![RobotArm7600](/img/RobotArm7600.jpg){ width=50% }
 
-
-
-<img src="/img/RobotArm7600.jpg" alt="Kitten"
-	title="A cute kitten" width="150" height="100" />
+<img src="/img/RobotArm7600.jpg" alt="Robot"
+	title="Rbot Arm ABB" width="350" height="400" />
 
 
 
