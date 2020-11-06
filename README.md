@@ -9,6 +9,10 @@ We guided the project towards a real industrial application, such as the pouring
 
 
 
+<img src="/img/RobotArm7600.jpg" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />
+
+
 
 
 To carry out the project, we used Matlab as a tool (to develop the code) and Peter Cork's toolbox available to link it to Maltab.
