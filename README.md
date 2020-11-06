@@ -27,12 +27,14 @@ More specifically, the topics that were treated were:
 <li>Simulation</li>
 </ul>
 
-<h3>3D Model</h3>
+<h3>Axis assignment</h3>
 
 <p align="center">
 <img src="/img/axis_assignement.PNG" alt="Axis"
 	title="Robot Arm ABB" width="250" height="200" />
 </p>
+
+
 
 
 <h3>Ellipse manipulability -- Singularities </h3>
