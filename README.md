@@ -7,7 +7,7 @@ We guided the project towards a real industrial application, such as the pouring
 
 <p align="center">
 <img src="/img/RobotArm7600.jpg" alt="Robot"
-	title="Rbot Arm ABB" width="350" height="400" />
+	title="Robot Arm ABB" width="350" height="400" />
 </p>
 
 
@@ -27,6 +27,26 @@ More specifically, the topics that were treated were:
 <li>Trajectory planning</li>
 </ul>
 
+<p align="center">
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">
+<img src="/img/3D_model_singularity.png" alt="Singularity1"
+	title="Robot Arm ABB" width="350" height="400" />
+</p>
+</td>
+<td>
+<p align="center">
+<img src="/img/3D_model_singularity2.png" alt="Singularity2"
+	title="Robot Arm ABB" width="350" height="400" />
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</p>
 
 
 
