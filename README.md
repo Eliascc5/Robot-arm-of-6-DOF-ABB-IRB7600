@@ -6,7 +6,7 @@ In this project, we worked on the kinematic aspects of an industrial robot with 
 We guided the project towards a real industrial application, such as the pouring of molten steel into crucibles. We considered it to be a risky application for a human operator.
 
 
-![RobotArm7600](/img/RobotArm7600.jpg=50px)
+![RobotArm7600](/img/RobotArm7600.jpg)
 
 To carry out the project, we used Matlab as a tool (to develop the code) and Peter Cork's toolbox available to link it to Maltab.
 
