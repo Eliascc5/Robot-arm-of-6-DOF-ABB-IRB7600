@@ -22,20 +22,37 @@ More specifically, the topics that were treated were:
 <li>Direct kinematics</li>
 <li>Inverse kinematics (Geometric method) -- Validation with numerical method provided by the toolbox</li>
 <li>Direct and inverse Jacobian matrix</li>
-<li>Ellipse manipulability -- Singularities</li>
 <li>Work space</li>
+<li>Ellipse manipulability -- Singularities</li>
+<li>Trajectory planning</li>
 <li>Simulation</li>
 </ul>
 
 <h3>Axis assignment</h3>
 
-<p align="center">
+
 <img src="/img/axis_assignement.PNG" alt="Axis"
 	title="Robot Arm ABB" width="250" height="200" />
+
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">
+<img src="/img/3D_model_singularity2.PNG" alt="Singularity1"
+	title="Robot Arm ABB" width="250" height="200" />
 </p>
-
-
-
+</td>
+<td>
+<p align="center">
+<img src="/img/3D_model_singularity.PNG" alt="Singularity2"
+	title="Robot Arm ABB" width="250" height="200" />
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 <h3>Ellipse manipulability -- Singularities </h3>
 
@@ -60,10 +77,9 @@ More specifically, the topics that were treated were:
 
 <h3>3D Model</h3>
 
-<p align="center">
 <img src="/img/3D_model.PNG" alt="3D Model"
 	title="Robot Arm ABB" width="250" height="200" />
-</p>
+
 
 
 
