@@ -14,7 +14,7 @@ We guided the project towards a real industrial application, such as the pouring
 
 To carry out the project, we used Matlab as a tool (to develop the code) and Peter Cork's toolbox available to link it to Maltab.
 
-More specifically, the topics that were treated were:
+More specifically, the topics that were treated:
 
 <ul>
 <li>Axis assignment</li>
@@ -80,10 +80,22 @@ More specifically, the topics that were treated were:
 
 <img src="/img/3D_model.PNG" alt="3D Model"
 	title="Robot Arm ABB" width="300" height="250" />
+	
+<p align="center">
+<b1>____________________________________________________________________________________________________________________________</b1>
+</p>
 
+<h3>Authors:</h3>
 
+CORREA, Elias
 
+CANTALOUBE, Adrian
 
+ELORGA, Eliseo
 
+<h3>Guidance:</h3>
+	
+DIAZ, Carolina 
 
+SANCHEZ, Eric
 
