@@ -32,22 +32,23 @@ More specifically, the topics that were treated were:
 
 
 <img src="/img/axis_assignement.PNG" alt="Axis"
-	title="Robot Arm ABB" width="250" height="200" />
+	title="Robot Arm ABB" width="300" height="250" />
 
+<h3>Work space</h3>
 
 <table>
 <tbody>
 <tr>
 <td>
 <p align="center">
-<img src="/img/3D_model_singularity2.PNG" alt="Singularity1"
-	title="Robot Arm ABB" width="250" height="200" />
+<img src="/img/work_space.PNG" alt="Work space"
+	title="Robot Arm ABB" width="200" height="230" />
 </p>
 </td>
 <td>
 <p align="center">
-<img src="/img/3D_model_singularity.PNG" alt="Singularity2"
-	title="Robot Arm ABB" width="250" height="200" />
+<img src="/img/work_space1.PNG" alt="Work space"
+	title="Robot Arm ABB" width="300" height="250" />
 </p>
 </td>
 </tr>
@@ -78,7 +79,7 @@ More specifically, the topics that were treated were:
 <h3>3D Model</h3>
 
 <img src="/img/3D_model.PNG" alt="3D Model"
-	title="Robot Arm ABB" width="250" height="200" />
+	title="Robot Arm ABB" width="300" height="250" />
 
 
 
