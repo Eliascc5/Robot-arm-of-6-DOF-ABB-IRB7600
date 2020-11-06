@@ -33,14 +33,14 @@ More specifically, the topics that were treated were:
 <tr>
 <td>
 <p align="center">
-<img src="/img/3D_model_singularity.png" alt="Singularity1"
-	title="Robot Arm ABB" width="350" height="400" />
+<img src="/img/3D_model_singularity2.PNG" alt="Singularity1"
+	title="Robot Arm ABB" width="250" height="200" />
 </p>
 </td>
 <td>
 <p align="center">
-<img src="/img/3D_model_singularity2.png" alt="Singularity2"
-	title="Robot Arm ABB" width="350" height="400" />
+<img src="/img/3D_model_singularity.PNG" alt="Singularity2"
+	title="Robot Arm ABB" width="250" height="200" />
 </p>
 </td>
 </tr>
