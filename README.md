@@ -1,11 +1,11 @@
 # Robot-arm-of-6-DOF-ABB-IRB7600-Kinematics-
 
-This is the final project of the Robotics I module at the National University of Cuyo, Mendoza - Argentina.
+This is the final project of the Robotics I module at the National University of Cuyo, Mendoza - Argentina. (2018)
 
 In this project, we worked on the kinematic aspects of an industrial robot with 6 degrees of freedom. It was about an ABB commercial robot model IRB 7600-400/2.55..
 We guided the project towards a real industrial application, such as the pouring of molten steel into crucibles. We considered it to be a risky application for a human operator.
 
-Basically,the idea was that the robot was able to take the containers with molten steel that are in the oven and then pour it into crucibles that are located on a table that is located on the side.
+Basically, the idea was that the robot was able to take the containers with molten steel that are in the oven and then pour it into crucibles that are located on a table that is located on the side.
 
 <p align="center">
 <img src="/img/RobotArm7600.jpg" alt="Robot"
@@ -29,6 +29,12 @@ More specifically, the topics that were treated:
 <li>Trajectory planning</li>
 <li>Simulation</li>
 </ul>
+
+<p align="center">
+<b1>____________________________________________________________________________________________________________________________</b1>
+</p>
+
+<h2>Some results obtained:</h2>
 
 <h3>Axis assignment</h3>
 
