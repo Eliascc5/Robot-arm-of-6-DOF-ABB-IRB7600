@@ -82,6 +82,11 @@ More specifically, the topics that were treated:
 
 <img src="/img/3D_model.PNG" alt="3D Model"
 	title="Robot Arm ABB" width="300" height="250" />
+
+
+<video controls="controls">
+  <source type="video/mkv" src="simulation.mkv"></source>
+</video>
 	
 <p align="center">
 <b1>____________________________________________________________________________________________________________________________</b1>
