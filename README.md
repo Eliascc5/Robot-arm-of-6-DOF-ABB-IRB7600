@@ -78,12 +78,9 @@ More specifically, the topics that were treated:
 </tbody>
 </table>
 
-<h3>3D Model</h3>
+<h3>Simulation (3D Model) of a trajectory. Putting steel into the furnace</h3> 
 
-<img src="/img/3D_model.PNG" alt="3D Model"
-	title="Robot Arm ABB" width="300" height="250" />
-
-<h3>Simulation of a trajectory. Putting steel into the furnace</h3>
+<b>[Click on the image below to watch the video]</b>
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/jbBpdFrF7ac/hqdefault.jpg)](https://youtu.be/jbBpdFrF7ac "Simulation")
 
