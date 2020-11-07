@@ -83,10 +83,10 @@ More specifically, the topics that were treated:
 <img src="/img/3D_model.PNG" alt="3D Model"
 	title="Robot Arm ABB" width="300" height="250" />
 
+<h3>Simulation of a trajectory. Putting steel into the furnace</h3>
 
-<video controls="controls">
-  <source type="video/mkv" src="simulation.mkv"></source>
-</video>
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/jbBpdFrF7ac/hqdefault.jpg)](https://youtu.be/jbBpdFrF7ac "Simulation")
+
 	
 <p align="center">
 <b1>____________________________________________________________________________________________________________________________</b1>
