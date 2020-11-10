@@ -1,6 +1,6 @@
 # Robot-arm-of-6-DOF-ABB-IRB7600-Kinematics-
 
-This is the final project of the Robotics I module at the Universidad Nacional de Cuyo, Mendoza - Argentina. (2018)
+This is the final project of the Robotics I module at the "Universidad Nacional de Cuyo", Mendoza - Argentina. (2018)
 
 In this project, we worked on the kinematic aspects of an industrial robot with 6 degrees of freedom. It was about an ABB commercial robot model IRB 7600-400/2.55..
 We guided the project towards a real industrial application, such as the pouring of molten steel into crucibles. We considered it to be a risky application for a human operator.
